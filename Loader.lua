@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aidarkunakbaev2/Onetap.gg/refs/heads/main/Crosshair.lua"))()
 
 
 
