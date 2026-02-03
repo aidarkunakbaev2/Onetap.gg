@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick(“Updating Cheat. Onetap is on update now. Reason : Anticheat Updated.”)
+game.Players.LocalPlayer:Kick("BAD REQUEST. Code error : 0x37. Onetap is on update now. Reason : Unknown.")
