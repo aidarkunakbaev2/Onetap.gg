@@ -11,4 +11,4 @@
 
 
 
-game.Players.LocalPlayer:Kick("URGENT PSA - API ONLY for cb disabled. Reason: Someone put stealer in API")
+game.Players.LocalPlayer:Kick("discounted")
